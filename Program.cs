@@ -89,5 +89,3 @@ do{
 }while(novonumero != 0);
 
 Console.WriteLine($"A soma total dos numeros é: {soma}");
-
-
