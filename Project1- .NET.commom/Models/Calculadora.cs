@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Project1__.NET.Models
+namespace Project1__.NET.commom.Models
 {
     public class Calculadora
     {

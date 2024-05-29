@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.csproj": {}
+    "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.commom\\Project1- .NET.commom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.csproj": {
+    "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.commom\\Project1- .NET.commom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.csproj",
-        "projectName": "Project1- .NET",
-        "projectPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.csproj",
+        "projectUniqueName": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.commom\\Project1- .NET.commom.csproj",
+        "projectName": "Project1- .NET.commom",
+        "projectPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.commom\\Project1- .NET.commom.csproj",
         "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\obj\\",
+        "outputPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projetos-Desafio.NET\\Project1- .NET\\Project1- .NET.commom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
